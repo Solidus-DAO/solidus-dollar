@@ -1,0 +1,9 @@
+{
+  "name": "solidus-dollar",
+  "version": "1.0.0",
+  "description": "Solidus dollar (sAD) smart contracts",
+  "main": "index.js",
+  "repository": "https://github.com/Solidus-DAO/solidus-dollar.git",
+  "author": "Doc Akan <fibrinlab@gmail.com>",
+  "license": "MIT"
+}
