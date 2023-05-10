@@ -3,7 +3,8 @@ pragma solidity 0.8.19;
 
 import { IDiamondCut } from "./interfaces/IDiamondCut.sol";
 import { LibDiamond } from "./libraries/LibDiamond.sol";
-
+import "@openzeppelin/contracts/interfaces/IERC165.sol";
+import {IERC173} from "./interfaces/IERC173.sol";
 
 struct DiamondArgs {
     address owner;
